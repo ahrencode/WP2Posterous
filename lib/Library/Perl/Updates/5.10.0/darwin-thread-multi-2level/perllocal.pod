@@ -1,0 +1,792 @@
+=head2 Sun Dec 20 14:18:53 2009: C<Module> L<Crypt::SSLeay|Crypt::SSLeay>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.57>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 14:18:59 2009: C<Module> L<Task::Weaken|Task::Weaken>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 14:19:12 2009: C<Module> L<LEOCHARRE::Debug|LEOCHARRE::Debug>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 14:19:19 2009: C<Module> L<YAML|YAML>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.70>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 14:19:48 2009: C<Module> L<LEOCHARRE::Dir|LEOCHARRE::Dir>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 14:19:53 2009: C<Module> L<Devel::Symdump|Devel::Symdump>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 14:20:07 2009: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/Library/Perl/Updates/5.10.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.94>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 14:20:08 2009: C<Module> L<Getopt::Std::Strict|Getopt::Std::Strict>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 14:20:13 2009: C<Module> L<String::ShellQuote|String::ShellQuote>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: shell-quote>
+
+=back
+
+=head2 Sun Dec 20 15:00:01 2009: C<Module> L<Task::Weaken|Task::Weaken>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:00:06 2009: C<Module> L<LEOCHARRE::Debug|LEOCHARRE::Debug>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:00:12 2009: C<Module> L<YAML|YAML>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.70>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:00:33 2009: C<Module> L<LEOCHARRE::Dir|LEOCHARRE::Dir>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:00:34 2009: C<Module> L<Devel::Symdump|Devel::Symdump>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:00:42 2009: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/Library/Perl/Updates/5.10.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.94>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:00:42 2009: C<Module> L<Getopt::Std::Strict|Getopt::Std::Strict>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:00:43 2009: C<Module> L<String::ShellQuote|String::ShellQuote>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: shell-quote>
+
+=back
+
+=head2 Sun Dec 20 15:04:19 2009: C<Module> L<Task::Weaken|Task::Weaken>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:04:25 2009: C<Module> L<LEOCHARRE::Debug|LEOCHARRE::Debug>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:04:31 2009: C<Module> L<YAML|YAML>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.70>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:04:36 2009: C<Module> L<LEOCHARRE::Dir|LEOCHARRE::Dir>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:04:37 2009: C<Module> L<Devel::Symdump|Devel::Symdump>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:04:45 2009: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/Library/Perl/Updates/5.10.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.94>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:04:46 2009: C<Module> L<Getopt::Std::Strict|Getopt::Std::Strict>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:04:47 2009: C<Module> L<String::ShellQuote|String::ShellQuote>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: shell-quote>
+
+=back
+
+=head2 Sun Dec 20 15:06:41 2009: C<Module> L<Task::Weaken|Task::Weaken>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:06:46 2009: C<Module> L<LEOCHARRE::Debug|LEOCHARRE::Debug>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:06:52 2009: C<Module> L<YAML|YAML>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.70>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:07:02 2009: C<Module> L<LEOCHARRE::Dir|LEOCHARRE::Dir>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:07:04 2009: C<Module> L<Devel::Symdump|Devel::Symdump>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:07:11 2009: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/Library/Perl/Updates/5.10.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.94>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:07:12 2009: C<Module> L<Getopt::Std::Strict|Getopt::Std::Strict>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:07:13 2009: C<Module> L<String::ShellQuote|String::ShellQuote>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: shell-quote>
+
+=back
+
+=head2 Sun Dec 20 15:12:24 2009: C<Module> L<SOAP::Lite|SOAP::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.710.10>
+
+=item *
+
+C<EXE_FILES: bin/SOAPsh.pl bin/XMLRPCsh.pl bin/stubmaker.pl>
+
+=back
+
+=head2 Sun Dec 20 15:13:09 2009: C<Module> L<LEOCHARRE::CLI2|LEOCHARRE::CLI2>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Dec 20 15:14:14 2009: C<Module> L<WordPress::XMLRPC|WordPress::XMLRPC>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ravi/code/wp2posterous/lib/lib/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

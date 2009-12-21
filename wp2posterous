@@ -1,0 +1,44 @@
+#!/usr/bin/perl
+
+use strict;
+
+use lib("./lib");
+use Data::Dumper;
+use WordPress::XMLRPC;
+
+$::wpurl = "http://platosbeard.org/xmlrpc.php";
+$::user = "ravi";
+
+&main();
+
+
+sub main
+{
+    print "Enter blog password: ";
+    chop(my $pass = <STDIN>);
+
+    my $blog = WordPress::XMLRPC->new(
+                { 
+                    proxy       => $::wpurl,
+                    username    => $::user,
+                    password    => $pass
+                }
+                );
+
+    my $posts = $blog->getPost(1);
+    print Dumper($posts);
+    exit;
+
+    my $posts = $blog->getRecentPosts(5);
+
+    foreach my $post ( @$posts )
+    {
+        print "Title = " . $post->{title} . "\n";
+        print "-"x80, "\n";
+        print $post->{description} . "\n";
+        print $post->{mt_text_more} . "\n";
+        print "="x80, "\n";
+    }
+}
+
+

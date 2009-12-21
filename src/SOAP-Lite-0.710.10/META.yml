@@ -1,0 +1,43 @@
+--- #YAML:1.0
+name:               SOAP-Lite
+version:            0.710.10
+abstract:           Perl's Web Services Toolkit
+author:
+    - Pavel Kulchenko, Randy J Ray, Byrne Reese, Martin Kutter (MKUTTER@cpan.org)
+license:            perl
+distribution_type:  module
+configure_requires:
+    ExtUtils::MakeMaker:  0
+build_requires:
+    ExtUtils::MakeMaker:  0
+requires:
+    Compress::Zlib:   0
+    constant:         1.14
+    FCGI:             0
+    HTTP::Daemon:     0
+    IO::File:         0
+    IO::Socket::SSL:  0
+    LWP::UserAgent:   0
+    MIME::Base64:     0
+    Net::FTP:         0
+    perl:             5.005
+    Scalar::Util:     0
+    Task::Weaken:     0
+    Test::More:       0
+    URI:              0
+    version:          0
+    XML::Parser:      2.23
+resources:
+    repository:  https://soaplite.svn.sourceforge.net/svnroot/soaplite/branches/0.71
+no_index:
+    directory:
+        - t
+        - inc
+generated_by:       ExtUtils::MakeMaker version 6.50
+meta-spec:
+    url:      http://module-build.sourceforge.net/META-spec-v1.4.html
+    version:  1.4
+keywords:
+    - SOAP
+    - SOAP client
+    - SOAP server
